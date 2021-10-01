@@ -4,7 +4,6 @@
 
 int main()
 {
-    /*
     // ДЗ 3 п.1:
     std::cout << first_func();
 
@@ -12,7 +11,6 @@ int main()
     int x {};
     std::cin >> x;
     std::cout << twenty_one(x); 
-    */
 
     
     //ДЗ 3 п.3:
